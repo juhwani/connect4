@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.26)
+project(3Dmaze)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(3Dmaze main.cpp
+        test.cpp)

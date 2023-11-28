@@ -1,0 +1,3 @@
+/Users/jj/CLionProjects/3Dmaze/cmake-build-debug/CMakeFiles/3Dmaze.dir
+/Users/jj/CLionProjects/3Dmaze/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jj/CLionProjects/3Dmaze/cmake-build-debug/CMakeFiles/rebuild_cache.dir
